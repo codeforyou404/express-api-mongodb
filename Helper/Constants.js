@@ -1,0 +1,5 @@
+
+module.exports = {
+    ERROR_500: "NO RECORD FOUND !",
+    INTERNAL_SERVER_ERROR:"INTERNAL SERVER ERRROR"
+}
